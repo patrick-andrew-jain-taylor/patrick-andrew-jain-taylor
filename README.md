@@ -1,6 +1,6 @@
 ## About me:
 
-Cloud Architect at Morgan Stanley | Luckiest Husband in the World. Professional Cloud Architect & Evangelist. Personal Tinkerer & Video Gamer. How can I help?
+Cloud Architect at Morgan Stanley | Luckiest Husband in the World | Professional Cloud Architect & Evangelist | Personal Tinkerer & Video Gamer | How can I help?
 
 ### Stats on GitHub:
 
